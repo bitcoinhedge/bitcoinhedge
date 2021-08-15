@@ -1,0 +1,2 @@
+contrib/bitcoinhedged.bash-completion	bitcoinhedged
+contrib/bitcoinhedge-cli.bash-completion bitcoinhedge-cli

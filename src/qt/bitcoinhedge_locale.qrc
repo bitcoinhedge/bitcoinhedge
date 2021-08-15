@@ -1,0 +1,37 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/bitcoinhedge_bg.qm</file>
+        <file alias="ca">locale/bitcoinhedge_ca.qm</file>
+        <file alias="cs">locale/bitcoinhedge_cs.qm</file>
+        <file alias="da">locale/bitcoinhedge_da.qm</file>
+        <file alias="de">locale/bitcoinhedge_de.qm</file>
+        <file alias="en">locale/bitcoinhedge_en.qm</file>
+        <file alias="en_GB">locale/bitcoinhedge_en_GB.qm</file>
+        <file alias="en_US">locale/bitcoinhedge_en_US.qm</file>
+        <file alias="eo">locale/bitcoinhedge_eo.qm</file>
+        <file alias="es">locale/bitcoinhedge_es.qm</file>
+        <file alias="es_ES">locale/bitcoinhedge_es_ES.qm</file>
+        <file alias="fi">locale/bitcoinhedge_fi.qm</file>
+        <file alias="fr_FR">locale/bitcoinhedge_fr_FR.qm</file>
+        <file alias="hi_IN">locale/bitcoinhedge_hi_IN.qm</file>
+        <file alias="hr">locale/bitcoinhedge_hr.qm</file>
+        <file alias="hr_HR">locale/bitcoinhedge_hr_HR.qm</file>
+        <file alias="it">locale/bitcoinhedge_it.qm</file>
+        <file alias="ja">locale/bitcoinhedge_ja.qm</file>
+        <file alias="ko_KR">locale/bitcoinhedge_ko_KR.qm</file>
+        <file alias="lt_LT">locale/bitcoinhedge_lt_LT.qm</file>
+        <file alias="nl">locale/bitcoinhedge_nl.qm</file>
+        <file alias="pl">locale/bitcoinhedge_pl.qm</file>
+        <file alias="pt">locale/bitcoinhedge_pt.qm</file>
+        <file alias="pt_BR">locale/bitcoinhedge_pt_BR.qm</file>
+        <file alias="ro_RO">locale/bitcoinhedge_ro_RO.qm</file>
+        <file alias="ru">locale/bitcoinhedge_ru.qm</file>
+        <file alias="sk">locale/bitcoinhedge_sk.qm</file>
+        <file alias="sv">locale/bitcoinhedge_sv.qm</file>
+        <file alias="tr">locale/bitcoinhedge_tr.qm</file>
+        <file alias="uk">locale/bitcoinhedge_uk.qm</file>
+        <file alias="vi">locale/bitcoinhedge_vi.qm</file>
+        <file alias="zh_CN">locale/bitcoinhedge_zh_CN.qm</file>
+        <file alias="zh_TW">locale/bitcoinhedge_zh_TW.qm</file>
+    </qresource>
+</RCC>

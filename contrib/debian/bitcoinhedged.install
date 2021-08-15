@@ -1,0 +1,3 @@
+usr/local/bin/bitcoinhedged usr/bin
+usr/local/bin/bitcoinhedge-cli usr/bin
+debian/examples/bitcoinhedge.conf etc/bitcoinhedge

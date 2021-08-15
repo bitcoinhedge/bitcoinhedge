@@ -1,0 +1,6 @@
+usr/local/bin/bitcoinhedge-qt usr/bin
+share/pixmaps/bitcoinhedge32.xpm usr/share/pixmaps
+share/pixmaps/bitcoinhedge16.xpm usr/share/pixmaps
+share/pixmaps/bitcoinhedge128.png usr/share/pixmaps
+debian/bitcoinhedge-qt.desktop usr/share/applications
+debian/bitcoinhedge-qt.protocol usr/share/kde4/services/
